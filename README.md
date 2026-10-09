@@ -6,7 +6,7 @@
 
 <p align="center">
   Applied AI Engineer at <a href="https://www.mercor.com">Mercor</a><br>
-  CTO &amp; Cofounder at <a href="https://www.neurixhq.com">Neurix AI</a>
+  Prev. CTO &amp; Cofounder at <a href="https://www.neurixhq.com">Neurix AI</a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ At [Mercor](https://www.mercor.com) I work on RL environments, evaluations, post
 **Applied AI Engineer · [Mercor](https://www.mercor.com)** · Jul 2025 — Present  
 Reinforcement learning environments, model evals, agents, post-training, fine-tuning, and synthetic data generation.
 
-**CTO & Cofounder · [Neurix AI](https://www.neurixhq.com)** · Mar 2025 — Present  
+**CTO & Cofounder · [Neurix AI](https://www.neurixhq.com)** · Mar 2025 — Jun 2025  
 Custom agents, copilots, and internal automation. Infra, workflows, and deployment.
 
 **Co-Founder · [Sixeye](https://www.sixeye.in)** · Aug 2024 — Jan 2025  
