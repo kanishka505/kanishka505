@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://kanishkasahu.com/kanishka_sahu.png" width="132" alt="Kanishka Sahu" />
-</p>
-
 <h1 align="center">Kanishka Sahu</h1>
 
 <p align="center">
